@@ -2,7 +2,7 @@
 A list of project ideas I m thinking of implementing in my free time
 
 1. Enigma Machine - done
-2. JSON Parser - half done (completed deserialization, serialization is not complete yet)
+2. JSON Parser - done (revisiting this by using a lexer + parser design)
    - https://www.foonathan.net/2022/05/recursive-variant-box/
    - https://www.reddit.com/r/cpp_questions/comments/1ertb9y/using_union_safely_for_a_json_parser/
    - https://stackoverflow.com/a/3521998/16034206
